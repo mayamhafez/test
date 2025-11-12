@@ -1,3 +1,4 @@
 ﻿CREATE DATABASE test
 go
 
+--Hi
