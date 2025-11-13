@@ -1,8 +1,6 @@
 ﻿CREATE DATABASE test
 go
 
---im Nicole--
-
 CREATE TABLE Role (
 
 	role_name varchar(50) PRIMARY KEY,
